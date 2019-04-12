@@ -1,0 +1,19 @@
+.top-nav ul{
+	margin:0;
+	padding:0;
+	background:#7096D0;
+	text-align:center;
+}
+.top-nav ul li{
+	display:inline-block;
+}
+.top-nav ul li a{
+	padding:1em 1.5em;
+	display:block;
+	text-decoration:none;
+	color:#FFF;
+	font-weight:400;
+	font-size:1.2em;
+	transition:0.5 ease;
+	text-transform:uppercase;
+}
