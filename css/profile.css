@@ -1,0 +1,38 @@
+.profile_avatar{
+    vertical-align: top;
+}
+.profile_avatar img{
+    padding-top: 0px;
+    max-width: 210px;
+    /* border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%; */
+}
+
+
+.profile_content{
+    display: table-cell;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.profile_url{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.profile_url a{
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+.profile_url a img{
+    object-fit: cover
+    width:17px;
+    height: 17px;
+}
